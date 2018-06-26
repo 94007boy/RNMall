@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="#fff"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageButton
+        android:id="@+id/empty_root_btn"
+        android:background="@android:color/transparent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:src="@mipmap/nonetwork" />
+    <TextView
+        android:id="@+id/des_dataerror"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/iv_dataerror"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="数据获取失败，请稍后再试..."
+        android:textColor="#353535"
+        android:textSize="13sp"/>
+
+    <TextView
+        android:id="@+id/bt_data_error"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/des_dataerror"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/shape_noresultbt"
+        android:gravity="center"
+        android:paddingBottom="8dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:paddingTop="8dp"
+        android:text="重新加载"
+        android:textColor="#fff"
+        android:textSize="14sp"
+        android:clickable="true"/>
+</LinearLayout>

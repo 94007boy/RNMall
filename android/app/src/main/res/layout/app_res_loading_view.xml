@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dialog_loading_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="#fff"
+    android:orientation="vertical">
+
+    <View
+        android:id="@+id/dialog_loading_title"
+        android:layout_width="match_parent"
+        android:layout_height="47dp"
+        android:visibility="gone"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical">
+        <ImageView
+            android:id="@+id/loading_anima"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:visibility="visible"
+            android:src="@drawable/pull_animation_new"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:textColor="#353535"
+            android:textSize="12sp"
+            android:layout_marginTop="10dp"
+            android:text="正在加载中..."
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+
+
+</LinearLayout>

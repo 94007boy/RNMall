@@ -1,0 +1,1653 @@
+{
+  "errorCode": null,
+  "floorList": [{
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///6e2d18ae0e1848fcb01d88c06683252a.png",
+      "jump": {
+        "desc": "商城-世界杯主题",
+        "jumptoType": "微页面"
+      }
+    }, {
+      "contentType": 0,
+      "id": "1",
+      "image": "http://wx2.img.lppz.com///fef3ef8aa800489a8af7b11aad330f4a.jpg",
+      "jump": {
+        "desc": "外卖-世界杯主题",
+        "jumptoType": "外链"
+      }
+    }, {
+      "contentType": 0,
+      "id": "2",
+      "image": "http://wx2.img.lppz.com///beb0545eb06a4c5d9e5e7a3fd885d733.png",
+      "jump": {
+        "desc": "社区-夏日话题",
+        "jumptoType": "外链"
+      }
+    }, {
+      "contentType": 0,
+      "id": "3",
+      "image": "http://wx2.img.lppz.com///9ed3946dc0b24c3a8922181b0a079cf9.png",
+      "jump": {
+        "desc": "APP-储值活动",
+        "jumptoType": "外链"
+      }
+    }, {
+      "contentType": 0,
+      "id": "4",
+      "image": "http://wx2.img.lppz.com///3cf142de4e3b4e95ae11936cf06ea94a.png",
+      "jump": {
+        "desc": "商城-甄选芒果",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 300,
+    "title": "轮播图广告位",
+    "type": 0,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///7264bdfc7261454094d277165d2ffad6.png",
+      "jump": {
+        "desc": "签到有礼",
+        "jumptoType": "外链"
+      },
+      "title": "签到有礼"
+    }, {
+      "contentType": 0,
+      "id": "1",
+      "image": "http://wx2.img.lppz.com///b0b1b659914e41338d5d88f3ba85e565.png",
+      "jump": {
+        "desc": "会员码",
+        "jumptoType": "外链"
+      },
+      "title": "会员码"
+    }, {
+      "contentType": 0,
+      "id": "2",
+      "image": "http://wx2.img.lppz.com///1731b93c787345a39742eef9a6511901.png",
+      "jump": {
+        "desc": "积分商城",
+        "jumptoType": "微页面"
+      },
+      "title": "积分商城"
+    }, {
+      "contentType": 0,
+      "id": "3",
+      "image": "http://wx2.img.lppz.com///2e2e790251f04d65afed138eb69e3e2f.png",
+      "jump": {
+        "desc": "良品外卖",
+        "jumptoType": "外链"
+      },
+      "title": "良品外卖"
+    }],
+    "height": 140,
+    "style": 3,
+    "type": 3,
+    "width": 560
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///aa76db4c90074916af2eddf80a3683df.png",
+      "jump": {
+        "desc": "附近门店",
+        "jumptoType": "外链",
+      },
+      "title": "附近门店"
+    }, {
+      "contentType": 0,
+      "id": "1",
+      "image": "http://wx2.img.lppz.com///409887f822d3494e9af29d1017615267.png",
+      "jump": {
+        "desc": "门店储值",
+        "jumptoType": "外链"
+      },
+      "title": "门店储值"
+    }, {
+      "contentType": 0,
+      "id": "2",
+      "image": "http://wx2.img.lppz.com///b9ca72b306b448a8ad0da1a7e1e0bc2f.png",
+      "jump": {
+        "desc": "领券中心",
+        "jumptoType": "外链"
+      },
+      "title": "领券中心"
+    }, {
+      "contentType": 0,
+      "id": "3",
+      "image": "http://wx2.img.lppz.com///8601e43ca0d3463cbf78a73b3964d3d5.png",
+      "jump": {
+        "desc": "在线商城",
+        "jumptoType": "微页面"
+      },
+      "title": "在线商城"
+    }],
+    "height": 140,
+    "style": 3,
+    "type": 3,
+    "width": 560
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///8a5cc83ed020428498ec968a3c1bf457.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": ""
+      },
+      "title": ""
+    }],
+    "height": 20,
+    "type": 10,
+    "width": 750
+  }, {
+    "id": null,
+    "jump": {
+      "desc": null,
+      "jumptoType": null,
+      "url": "http://wxv2.lppz.com/smartpage/info/1085.jhtml"
+    },
+    "title": "在线商城世界杯热辣开场，镇店爆款1.9元秒杀！！！满168减60！",
+    "type": 9
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///23e0027e226249c8b9017231e51400de.png",
+      "jump": {
+        "jumptoID": "458",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 350,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///aae78d1f604c43839a06615116686fdf.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": ""
+      },
+      "title": ""
+    }],
+    "height": 20,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///3f8f9ddc12e14cd1ae7613cd00f32888.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": ""
+      }
+    }],
+    "height": 20,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///ca3e04a7aa4c407b8190ef52299b6f47.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "外链"
+      }
+    }],
+    "height": 350,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///3f8f9ddc12e14cd1ae7613cd00f32888.png",
+    }],
+    "height": 20,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///d0f952e8cd654d53b74196fde9de505f.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "外链"
+      }
+    }],
+    "height": 350,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///7f8e097c93be4a05bdf8b746b77afcb4.png",
+    }],
+    "height": 20,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///5f12a857caf24026aa69e530441ee9f9.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 350,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///3171dc11ee964999a16b4d042384cd1d.png",
+      "jump": {
+        "desc": "牛肉味兰花豆 110g",
+        "jumptoType": "商品"
+      },
+      "price": "￥6.9",
+      "productType": 0,
+      "quickAddToCart": 0,
+      "title": "牛肉味兰花豆 110g"
+    }, {
+      "contentType": 0,
+      "id": "1",
+      "image": "http://wx2.img.lppz.com///2a100a4b0e384bf8a82f9c4b69b78d62.png",
+      "jump": {
+        "desc": "脆冬枣 35g",
+        "jumptoType": "商品"
+      },
+      "price": "￥3.9",
+      "productType": 0,
+      "promotionPrice": null,
+      "quickAddToCart": 0,
+      "subtitle": "￥3.9",
+      "title": "脆冬枣 35g"
+    }, {
+      "contentType": 0,
+      "id": "2",
+      "image": "http://wx2.img.lppz.com///514b3acddf4646179d0872fc1a43c923.png",
+      "jump": {
+        "desc": "芒果干 108g",
+        "jumptoType": "商品"
+      },
+      "price": "￥7.9",
+      "productType": 0,
+      "quickAddToCart": 0,
+      "recommendProduct": false,
+      "stockAvailable": 1,
+      "subtitle": "￥7.9",
+      "title": "芒果干 108g"
+    }, {
+      "contentType": 0,
+      "id": "3",
+      "image": "http://wx2.img.lppz.com///a3292f899b664664a6529b2428569c2d.png",
+      "jump": {
+        "desc": "风味猪肉脯自然片100g*1（香辣味）",
+        "jumptoType": "商品"
+      },
+      "price": "￥9.9",
+      "productType": 0,
+      "quickAddToCart": 0,
+      "recommendProduct": false,
+      "title": "风味猪肉脯自然片100g*1（香辣味）"
+    }, {
+      "contentType": 0,
+      "id": "4",
+      "image": "http://wx2.img.lppz.com///357d80321d8c4483b2d6d48169e432ba.png",
+      "jump": {
+        "desc": "多味花生148g*2",
+        "jumptoType": "商品"
+      },
+      "price": "￥9.9",
+      "productType": 0,
+      "quickAddToCart": 0,
+      "subtitle": "￥9.9",
+      "title": "多味花生148g*2"
+    }, {
+      "contentType": 0,
+      "id": "5",
+      "image": "http://wx2.img.lppz.com///3103a501447f4767b27254b99b7504a1.png",
+      "jump": {
+        "desc": "巧豆皮 60g*3（香辣味）",
+        "jumptoType": "商品"
+      },
+      "price": "￥14.9",
+      "productType": 0,
+      "recommendProduct": false,
+      "title": "巧豆皮 60g*3（香辣味）"
+    }, {
+      "contentType": 0,
+      "id": "6",
+      "image": "http://wx2.img.lppz.com///07bdf578e1174f059a6c086f4d067479.png",
+      "jump": {
+        "desc": "酥脆薄饼 海苔味 300g",
+        "jumptoType": "商品"
+      },
+      "price": "￥12.9",
+      "productType": 0,
+      "title": "酥脆薄饼 海苔味 300g"
+    }, {
+      "contentType": 0,
+      "id": "7",
+      "image": "http://wx2.img.lppz.com///720157ebcaad4535a902fb6bde96b849.png",
+      "jump": {
+        "desc": "奶香夏威夷果 120g*1",
+        "jumptoType": "商品"
+      },
+      "price": "￥15.9",
+      "productType": 0,
+      "quickAddToCart": 0,
+      "title": "奶香夏威夷果 120g*1"
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///fd8e6f514b4d48d1ad244b0d0fcfa0ab.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      },
+      "price": "",
+      "productType": 0
+    }],
+    "height": 800,
+    "style": 0,
+    "type": 15,
+    "width": 800
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///3f8f9ddc12e14cd1ae7613cd00f32888.png",
+      "productType": 0,
+    }],
+    "height": 20,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///adcb7b1ecff44fee9c319c8f904ca83d.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 350,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///c286597aa2bd41a9ac75e17e13bf53b2.png",
+      "jump": {
+        "desc": "【积分兑换】沙拉薯条45g",
+        "jumptoType": "商品"
+      },
+      "price": "300积分",
+      "productType": 0,
+      "title": "【积分兑换】沙拉薯条45g"
+    }, {
+      "contentType": 0,
+      "id": "1",
+      "image": "http://wx2.img.lppz.com//group2/M00/00/14/CghmQlhGNgKAUGHeAAAhdBzKFF0870.jpg",
+      "jump": {
+        "desc": "【积分兑换】Philippine香蕉片 65g",
+        "jumptoType": "商品"
+      },
+      "price": "550积分",
+      "title": "【积分兑换】Philippine香蕉片 65g"
+    }, {
+      "contentType": 0,
+      "id": "2",
+      "image": "http://wx2.img.lppz.com///45aca34c27ab40f6b29b6ca12f98e60a.png",
+      "jump": {
+        "desc": "【积分兑换】山楂饴 250g",
+        "jumptoType": "商品"
+      },
+      "price": "690积分",
+      "title": "【积分兑换】山楂饴 250g"
+    }, {
+      "contentType": 0,
+      "id": "3",
+      "image": "http://wx2.img.lppz.com///eb6061359efb424b98bc8052127f5772.png",
+      "jump": {
+        "desc": "【积分兑换】降800积分 手造麻薯 150g*2 抹茶味 夹心糕点",
+        "jumptoType": "商品"
+      },
+      "price": "690积分",
+      "title": "【积分兑换】降800积分 手造麻薯 150g*2 抹茶味 夹心糕点"
+    }, {
+      "contentType": 0,
+      "id": "4",
+      "image": "http://wx2.img.lppz.com///17f97dc5031d4c5791ceec6dc07ae1e7.png",
+      "jump": {
+        "desc": "【积分兑换】芒果干 108g",
+        "jumptoType": "商品"
+      },
+      "price": "1190积分",
+      "title": "【积分兑换】芒果干 108g"
+    }, {
+      "contentType": 0,
+      "id": "5",
+      "image": "http://wx2.img.lppz.com///3fd377ecd51146e8811c8b65c7e2db69.png",
+      "jump": {
+        "desc": "【积分兑换】香卤铁蛋 五香味 128g",
+        "jumptoType": "商品"
+      },
+      "price": "990积分",
+      "title": "【积分兑换】香卤铁蛋 五香味 128g"
+    }, {
+      "contentType": 0,
+      "id": "6",
+      "image": "http://wx2.img.lppz.com///5f0d43cade6d4444b1e727917154b413.png",
+      "jump": {
+        "desc": "【积分兑换】红枣酸奶块54g",
+        "jumptoType": "商品"
+      },
+      "price": "1183积分",
+      "title": "【积分兑换】红枣酸奶块54g"
+    }, {
+      "contentType": 0,
+      "id": "7",
+      "image": "http://wx2.img.lppz.com///8d569f78c2a240f5b82ce55cf10a05dd.png",
+      "jump": {
+        "desc": "【积分兑换】哇酷哇酷牌原味海苔16g",
+        "jumptoType": "商品"
+      },
+      "price": "1500积分",
+      "title": "【积分兑换】哇酷哇酷牌原味海苔16g"
+    }, {
+      "contentType": 0,
+      "id": "8",
+      "image": "http://wx2.img.lppz.com///b3bca32033bd4f7897a2be527e0772b2.jpg?x-oss-process=image/resize,w_200/quality,Q_80",
+      "jump": {
+        "desc": "【积分兑换】冷吃牛肉条（120g）",
+        "jumptoType": "商品"
+      },
+      "price": "2190积分",
+      "title": "【积分兑换】冷吃牛肉条（120g）"
+    }, {
+      "contentType": 0,
+      "id": "9",
+      "image": "http://wx2.img.lppz.com///2d2e79521cf7427abaff80f7dd1e8a45.png",
+      "jump": {
+        "desc": "【积分兑换】灯影牛肉（五香）125g",
+        "jumptoType": "商品"
+      },
+      "price": "1095积分",
+      "title": "【积分兑换】灯影牛肉（五香）125g"
+    }, {
+      "contentType": 0,
+      "id": "10",
+      "image": "http://wx2.img.lppz.com///c34e5953c896431ab9e316feaa3940a7.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 200,
+    "type": 15,
+    "width": 200
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///96d193b09b84438c86eeb32c52d53c0f.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 350,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///9c5256eb91d84317b0bbb79d6d915e34.png",
+      "jump": {
+        "desc": "老醋蚕豆100g*2",
+        "jumptoType": "商品"
+      },
+      "price": "￥6.9",
+      "subtitle": "￥6.9",
+      "title": "老醋蚕豆100g*2"
+    }, {
+      "contentType": 0,
+      "id": "1",
+      "image": "http://wx2.img.lppz.com///e5e53698aa8945dca264ddea662854ce.png",
+      "jump": {
+        "desc": "怪味花生120g*2",
+        "jumptoType": "商品"
+      },
+      "price": "￥6.9",
+      "subtitle": "￥6.9",
+      "title": "怪味花生120g*2"
+    }, {
+      "contentType": 0,
+      "id": "2",
+      "image": "http://wx2.img.lppz.com///2d05ccad83794c1fbb9cf4b2d1b315ec.png",
+      "jump": {
+        "desc": "梅子吸吸果冻165g*2",
+        "jumptoType": "商品"
+      },
+      "price": "￥7.9",
+      "subtitle": "￥7.9",
+      "title": "梅子吸吸果冻165g*2"
+    }, {
+      "contentType": 0,
+      "id": "3",
+      "image": "http://wx2.img.lppz.com///76bbe0d34ef54011802806aa0ea0c315.png",
+      "jump": {
+        "desc": "虾片（原味）50g*2",
+        "jumptoType": "商品"
+      },
+      "price": "￥9.9",
+      "subtitle": "￥9.9",
+      "title": "虾片（原味）50g*2"
+    }, {
+      "contentType": 0,
+      "id": "4",
+      "image": "http://wx2.img.lppz.com///9ce21a0b2dc24ca29ab52db82670e0d7.png",
+      "jump": {
+        "desc": "牛蛙（香辣味）90g",
+        "jumptoType": "商品"
+      },
+      "price": "￥14.9",
+      "subtitle": "￥14.9",
+      "title": "牛蛙（香辣味）90g"
+    }, {
+      "contentType": 0,
+      "id": "5",
+      "image": "http://wx2.img.lppz.com///b64f99d20bd94204baa0a9ddc075c1dc.png",
+      "jump": {
+        "desc": "迷你八爪鱼（香辣味）60g",
+        "jumptoType": "商品"
+      },
+      "price": "￥19.9",
+      "subtitle": "￥19.9",
+      "tebName": "推荐",
+      "title": "迷你八爪鱼（香辣味）60g"
+    }, {
+      "contentType": 0,
+      "id": "6",
+      "image": "http://wx2.img.lppz.com///c34e5953c896431ab9e316feaa3940a7.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 200,
+    "style": 0,
+    "type": 15,
+    "width": 200
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///ca5ef56eb26646e2af1f3d5a7930531d.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 350,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///814340836fa244e7815fab9a22854256.png",
+      "jump": {
+        "desc": "【满减】香酥大麻花 160g",
+        "jumptoType": "商品"
+      },
+      "price": "￥9.9",
+      "productType": 0,
+      "tebName": "推荐",
+      "title": "【满减】香酥大麻花 160g"
+    }, {
+      "contentType": 0,
+      "id": "1",
+      "image": "http://wx2.img.lppz.com///299f15606957469d95b566d53af6ccc5.png",
+      "jump": {
+        "desc": "【满减】开口笑甘栗 120g*1",
+        "jumptoType": "商品"
+      },
+      "price": "￥12.9",
+      "title": "【满减】开口笑甘栗 120g*1"
+    }, {
+      "contentType": 0,
+      "id": "2",
+      "image": "http://wx2.img.lppz.com///dda8800731604969a43c8105ea49e3c3.png",
+      "jump": {
+        "desc": "【满减】小米锅巴 90g*2 ",
+        "jumptoType": "商品"
+      },
+      "price": "￥15",
+      "productType": 0,
+      "title": "【满减】小米锅巴 90g*2 "
+    }, {
+      "contentType": 0,
+      "id": "3",
+      "image": "http://wx2.img.lppz.com///f91ba281eabf49d0b9cf6606fc58c9e3.png",
+      "jump": {
+        "desc": "【满减】奶香巴旦木/巴达木 238g",
+        "jumptoType": "商品"
+      },
+      "price": "￥34.9",
+      "productType": 0,
+      "title": "【满减】奶香巴旦木/巴达木 238g"
+    }, {
+      "contentType": 0,
+      "id": "4",
+      "image": "http://wx2.img.lppz.com///6a58abf36f604ea494717042c92c1031.png",
+      "jump": {
+        "desc": "【满减】手撕面包 330g",
+        "jumptoType": "商品"
+      },
+      "price": "￥12.9",
+      "title": "【满减】手撕面包 330g"
+    }, {
+      "contentType": 0,
+      "id": "5",
+      "image": "http://wx2.img.lppz.com///783be5df72524d89bace28de23157d64.png",
+      "jump": {
+        "desc": "【满减】夏威夷果 原味 280g",
+        "jumptoType": "商品"
+      },
+      "price": "￥39.9",
+      "title": "【满减】夏威夷果 原味 280g"
+    }, {
+      "contentType": 0,
+      "id": "6",
+      "image": "http://wx2.img.lppz.com///949c2c0fae5e43738b4f98c50a730951.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 0,
+    "style": 0,
+    "title": "横向滑动",
+    "type": 15,
+    "width": 0
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///8e33673e3197473b8657484d405d6afa.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 350,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///8c52a42e4de447aa878c210e0bcca79a.png",
+      "imageMask": 0,
+      "jump": {
+        "desc": "【良品甄选】金煌芒 5斤",
+        "jumptoType": "商品"
+      },
+      "price": "￥29.9",
+      "subtitle": "￥29.9",
+      "tebName": "推荐",
+      "title": "【良品甄选】金煌芒 5斤"
+    }, {
+      "contentType": 0,
+      "id": "1",
+      "image": "http://wx2.img.lppz.com///61cf0eb708134036bd9cb285c8d03251.png",
+      "jump": {
+        "desc": "【良品甄选】美早大樱桃 买2斤送1斤  实发3斤 ",
+        "jumptoType": "商品",
+      },
+      "price": "￥158",
+      "title": "【良品甄选】美早大樱桃 买2斤送1斤  实发3斤 "
+    }, {
+      "contentType": 0,
+      "id": "2",
+      "image": "http://wx2.img.lppz.com///e6c4e3bdfddd4793a1de1ea6b7f2539a.png",
+      "jump": {
+        "desc": "【良品甄选】预售 凤冠橘橙12个装 产地直发",
+        "jumptoType": "商品"
+      },
+      "price": "￥69",
+      "productType": 0,
+      "title": "【良品甄选】预售 凤冠橘橙12个装 产地直发"
+    }, {
+      "contentType": 0,
+      "id": "3",
+      "image": "http://wx2.img.lppz.com///c7e974639adb48bba8f98e6805b11c71.png",
+      "jump": {
+        "desc": "【良品甄选】甄选佳沛新西兰绿奇异果 12粒",
+        "jumptoType": "商品"
+      },
+      "price": "￥69",
+      "productType": 0,
+      "promotionPrice": null,
+      "title": "【良品甄选】甄选佳沛新西兰绿奇异果 12粒"
+    }, {
+      "contentType": 0,
+      "id": "4",
+      "image": "http://wx2.img.lppz.com///29d24c76e47948718f15a55f2b9e499d.png",
+      "jump": {
+        "desc": "【良品甄选】新西兰佳沛金奇异果 12粒  ",
+        "jumptoType": "商品"
+      },
+      "price": "￥109",
+      "title": "【良品甄选】新西兰佳沛金奇异果 12粒  "
+    }, {
+      "contentType": 0,
+      "id": "5",
+      "image": "http://wx2.img.lppz.com///377f9cca18194c80bbeff8b35caa28ee.png",
+      "jump": {
+        "desc": "【良品甄选】东魁杨梅 精品3斤装 顺丰包邮 底价上新",
+        "jumptoType": "商品"
+      },
+      "price": "￥138",
+      "title": "【良品甄选】东魁杨梅 精品3斤装 顺丰包邮 底价上新"
+    }, {
+      "contentType": 0,
+      "id": "6",
+      "image": "http://wx2.img.lppz.com///fd8e6f514b4d48d1ad244b0d0fcfa0ab.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 0,
+    "style": 0,
+    "title": "横向滑动",
+    "type": 15,
+    "width": 0
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///546f3a81729e476d85dbbf68f5b99ad0.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "外链"
+      }
+    }],
+    "height": 350,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///2d9294aad9d74742a7ff8e417c9ce65f.jpg?x-oss-process=image/resize,w_200/quality,Q_80",
+      "jump": {
+        "desc": "【拼团价25.9】甄选 六鳌红蜜薯 5斤装  ",
+        "jumptoType": "商品"
+      },
+      "price": "￥35.9",
+      "title": "【拼团价25.9】甄选 六鳌红蜜薯 5斤装  "
+    }, {
+      "contentType": 0,
+      "id": "1",
+      "image": "http://wx2.img.lppz.com///ce8f925c916d43f78ca7d7c3275f75f6.jpg?x-oss-process=image/resize,w_200/quality,Q_80",
+      "jump": {
+        "desc": "【拼团价29.9】良品甄选 越南小紫薯 5斤分享装 软糯薯香 清甜多粉 ",
+        "jumptoType": "商品"
+      },
+      "price": "￥39.9",
+      "title": "【拼团价29.9】良品甄选 越南小紫薯 5斤分享装 软糯薯香 清甜多粉 "
+    }, {
+      "contentType": 0,
+      "id": "2",
+      "image": "http://wx2.img.lppz.com///d0a0d55d697e42589c1fd66d5bbd1a5c.JPG?x-oss-process=image/resize,w_200/quality,Q_80",
+      "jump": {
+        "desc": "【拼团价39】 美好糕点组合礼包 1000g",
+        "jumptoType": "商品"
+      },
+      "price": "￥59.9",
+      "title": "【拼团价39】 美好糕点组合礼包 1000g"
+    }, {
+      "contentType": 0,
+      "id": "3",
+      "image": "http://wx2.img.lppz.com///31726c3d7cf74009b56dde38e934807d.png",
+      "jump": {
+        "desc": "【拼团价44.9】小食光组合495g 单品包邮",
+        "jumptoType": "商品"
+      },
+      "price": "￥54.9",
+      "title": "【拼团价44.9】小食光组合495g 单品包邮"
+    }, {
+      "contentType": 0,
+      "id": "4",
+      "image": "http://wx2.img.lppz.com///912f07ec05cd4a97ae98e0680f13eded.jpg?x-oss-process=image/resize,w_200/quality,Q_80",
+      "jump": {
+        "desc": "【拼团价39】酸奶脆枣组合612g",
+        "jumptoType": "商品"
+      },
+      "price": "￥59",
+      "title": "【拼团价39】酸奶脆枣组合612g"
+    }, {
+      "contentType": 0,
+      "id": "5",
+      "image": "http://wx2.img.lppz.com///c34e5953c896431ab9e316feaa3940a7.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "外链"
+      }
+    }],
+    "height": 0,
+    "style": 0,
+    "title": "横向滑动",
+    "type": 15,
+    "width": 0
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///9bfbc7f8ebba41b6a8129ffd00768498.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 350,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///7bd5a14ca9dc4d4d857169fe2f101c91.png",
+      "jump": {
+        "desc": "法式香草风味牛柳 90g*1",
+        "jumptoType": "商品"
+      },
+      "price": "￥24.9",
+      "title": "法式香草风味牛柳 90g*1"
+    }, {
+      "contentType": 0,
+      "id": "1",
+      "image": "http://wx2.img.lppz.com///770e51eabea44b3b822352008385d6ad.png",
+      "jump": {
+        "desc": "甜辣鸭翅 175g*1",
+        "jumptoType": "商品"
+      },
+      "price": "￥19.9",
+      "title": "甜辣鸭翅 175g*1"
+    }, {
+      "contentType": 0,
+      "id": "2",
+      "image": "http://wx2.img.lppz.com///36632ca4a8e343b1bd495ded2d300780.png",
+      "jump": {
+        "desc": "山椒凤爪 260g*1",
+        "jumptoType": "商品"
+      },
+      "price": "￥19.9",
+      "title": "山椒凤爪 260g*1"
+    }, {
+      "contentType": 0,
+      "id": "3",
+      "image": "http://wx2.img.lppz.com///08fcf9a4dc5a4ea1a066a8c0a01ccce2.png",
+      "jump": {
+        "desc": "奥尔良小鸡腿 108g*1 ",
+        "jumptoType": "商品"
+      },
+      "price": "￥13.9",
+      "title": "奥尔良小鸡腿 108g*1 "
+    }, {
+      "contentType": 0,
+      "id": "4",
+      "image": "http://wx2.img.lppz.com///3204ed23a0594685a36b6c60b794a6e3.png",
+      "jump": {
+        "desc": "灯影牛肉丝 爆辣味 250g",
+        "jumptoType": "商品"
+      },
+      "price": "￥33.9",
+      "productType": 0,
+      "title": "灯影牛肉丝 爆辣味 250g"
+    }, {
+      "contentType": 0,
+      "id": "5",
+      "image": "http://wx2.img.lppz.com///5e7f8d92a2c8444885034150904bb2bc.png",
+      "jump": {
+        "desc": "牛肉粒 98g*1（五香味）",
+        "jumptoType": "商品"
+      },
+      "price": "￥24.9",
+      "productType": 0,
+      "title": "牛肉粒 98g*1（五香味）"
+    }, {
+      "contentType": 0,
+      "id": "6",
+      "image": "http://wx2.img.lppz.com///59af9d292204498797519a0fe6ffeeb9.png",
+      "jump": {
+        "desc": "冷吃兔 130g*1（麻辣味）",
+        "jumptoType": "商品"
+      },
+      "price": "￥21.9",
+      "title": "冷吃兔 130g*1（麻辣味）"
+    }, {
+      "contentType": 0,
+      "id": "7",
+      "image": "http://wx2.img.lppz.com///b44e9800f7894ecb865d6e932254fe6d.png",
+      "jump": {
+        "desc": "牙签牛肉 100g*1（麻辣味）",
+        "jumptoType": "商品"
+      },
+      "price": "￥26.9",
+      "title": "牙签牛肉 100g*1（麻辣味）"
+    }, {
+      "contentType": 0,
+      "id": "8",
+      "image": "http://wx2.img.lppz.com///59b79e736bd340f2976b928a0d587cf8.png",
+      "jump": {
+        "desc": "肉肉聚汇 520g*1",
+        "jumptoType": "商品"
+      },
+      "price": "￥69.9",
+      "title": "肉肉聚汇 520g*1"
+    }, {
+      "contentType": 0,
+      "id": "9",
+      "image": "http://wx2.img.lppz.com///fd8e6f514b4d48d1ad244b0d0fcfa0ab.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 0,
+    "style": 0,
+    "type": 15,
+    "width": 0
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///331396cacda34e439e2f411c4be555d7.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 350,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///ea993a20fcbb4610a8d8e105d1a511f7.png",
+      "jump": {
+        "desc": " 黄桃果捞/罐头 300g",
+        "jumptoType": "商品"
+      },
+      "price": "￥9.9",
+      "title": " 黄桃果捞/罐头 300g"
+    }, {
+      "contentType": 0,
+      "id": "1",
+      "image": "http://wx2.img.lppz.com///96736c34129f4daf92956e8817ea25a6.png",
+      "jump": {
+        "desc": "迷你话梅粒 135g",
+        "jumptoType": "商品"
+      },
+      "price": "￥11.9",
+      "title": "迷你话梅粒 135g"
+    }, {
+      "contentType": 0,
+      "id": "2",
+      "image": "http://wx2.img.lppz.com///181f90706b194bad964a2443cdf9c53f.png",
+      "jump": {
+        "desc": "黄桃果干 98g*1",
+        "jumptoType": "商品"
+      },
+      "price": "￥12.9",
+      "title": "黄桃果干 98g*1"
+    }, {
+      "contentType": 0,
+      "id": "3",
+      "image": "http://wx2.img.lppz.com///818c3c016f8b4958b843665f0c2c3daf.jpg",
+      "jump": {
+        "desc": "蔓越莓干100g*1 ",
+        "jumptoType": "商品"
+      },
+      "price": "￥12.9",
+      "title": "蔓越莓干100g*1 "
+    }, {
+      "contentType": 0,
+      "id": "4",
+      "image": "http://wx2.img.lppz.com///3f03639a803c405a95c16ca2a88b7a45.png",
+      "jump": {
+        "desc": "杏干100g*1",
+        "jumptoType": "商品"
+      },
+      "price": "￥11.9",
+      "title": "杏干100g*1"
+    }, {
+      "contentType": 0,
+      "id": "5",
+      "image": "http://wx2.img.lppz.com///96ce983a829048c987e973e06efdf965.png",
+      "jump": {
+        "desc": "桂花加应子120g",
+        "jumptoType": "商品"
+      },
+      "price": "￥9.9",
+      "title": "桂花加应子120g"
+    }, {
+      "contentType": 0,
+      "id": "6",
+      "image": "http://wx2.img.lppz.com///cd220637c49343e7b48b48f937c67877.png",
+      "jump": {
+        "desc": "菠萝片100g*1",
+        "jumptoType": "商品"
+      },
+      "price": "￥12.9",
+      "title": "菠萝片100g*1"
+    }, {
+      "contentType": 0,
+      "id": "7",
+      "image": "http://wx2.img.lppz.com///41cd78e9523a4bdd82dc3f907aaa1701.png",
+      "jump": {
+        "desc": "综合果蔬干100g*1 混合果干",
+        "jumptoType": "商品"
+      },
+      "price": "￥12.9",
+      "title": "综合果蔬干100g*1 混合果干"
+    }, {
+      "contentType": 0,
+      "id": "8",
+      "image": "http://wx2.img.lppz.com///d5f75ea065c84a7f9951f0ca5a2b57dd.png",
+      "jump": {
+        "desc": "每日红枣1000g",
+        "jumptoType": "商品"
+      },
+      "price": "￥49",
+      "title": "每日红枣1000g"
+    }, {
+      "contentType": 0,
+      "id": "9",
+      "image": "http://wx2.img.lppz.com///fd8e6f514b4d48d1ad244b0d0fcfa0ab.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 800,
+    "style": 0,
+    "type": 15,
+    "width": 800
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///fcc79ae892ff4e3eaa65723951246fa0.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 350,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///260a85a486f7489babe649c4ff3f315d.png",
+      "jump": {
+        "desc": "蛋黄酥 100g",
+        "jumptoType": "商品"
+      },
+      "price": "￥17.9",
+      "title": "蛋黄酥 100g"
+    }, {
+      "contentType": 0,
+      "id": "1",
+      "image": "http://wx2.img.lppz.com///a563d8f50abf47bdb3289825ded074a1.png",
+      "jump": {
+        "desc": "小麻花芝麻味 300g（20小袋）",
+        "jumptoType": "商品"
+      },
+      "price": "￥14.9",
+      "title": "小麻花芝麻味 300g（20小袋）"
+    }, {
+      "contentType": 0,
+      "id": "2",
+      "image": "http://wx2.img.lppz.com///d6169bb00ceb4207b5a93aa8aab69352.png",
+      "jump": {
+        "desc": "椰丝球 酸奶味 300g",
+        "jumptoType": "商品"
+      },
+      "price": "￥19.9",
+      "title": "椰丝球 酸奶味 300g"
+    }, {
+      "contentType": 0,
+      "id": "3",
+      "image": "http://wx2.img.lppz.com///3089c4c5f90a42dc8cf13d30688cc343.png",
+      "jump": {
+        "desc": "鲜花饼 320g",
+        "jumptoType": "商品"
+      },
+      "price": "￥25.9",
+      "title": "鲜花饼 320g"
+    }, {
+      "contentType": 0,
+      "id": "4",
+      "image": "http://wx2.img.lppz.com///178c5eb34f9d4aa89921c8060a16f5f6.png",
+      "jump": {
+        "desc": "蒸蛋糕 1000g",
+        "jumptoType": "商品"
+      },
+      "price": "￥39.9",
+      "title": "蒸蛋糕 1000g"
+    }, {
+      "contentType": 0,
+      "id": "5",
+      "image": "http://wx2.img.lppz.com///69984d68118545189a7cd4526a78e496.png",
+      "jump": {
+        "desc": "绿豆饼 200g",
+        "jumptoType": "商品"
+      },
+      "price": "￥12.9",
+      "title": "绿豆饼 200g"
+    }, {
+      "contentType": 0,
+      "id": "6",
+      "image": "http://wx2.img.lppz.com///183880054de04eb290e175e33c40bb4a.png",
+      "jump": {
+        "desc": "手撕面包 1005g",
+        "jumptoType": "商品"
+      },
+      "price": "￥32.9",
+      "title": "手撕面包 1005g"
+    }, {
+      "contentType": 0,
+      "id": "7",
+      "image": "http://wx2.img.lppz.com///8b1d9b5e42ea4ab1ac6d8150eb5bd9ea.png",
+      "jump": {
+        "desc": "黑米蒸蛋糕 1000g",
+        "jumptoType": "商品"
+      },
+      "price": "￥39.9",
+      "title": "黑米蒸蛋糕 1000g"
+    }, {
+      "contentType": 0,
+      "id": "8",
+      "image": "http://wx2.img.lppz.com///c34e5953c896431ab9e316feaa3940a7.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 800,
+    "type": 15,
+    "width": 800
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///004af0f5d89242729407e7b6e94810e5.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 350,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///b975e734dcfc4798acfe59d2a96fe2c3.png",
+      "jump": {
+        "desc": "奶香巴旦木 120g*1",
+        "jumptoType": "商品"
+      },
+      "price": "￥15.9",
+      "title": "奶香巴旦木 120g*1"
+    }, {
+      "contentType": 0,
+      "id": "1",
+      "image": "http://wx2.img.lppz.com///8ea9545d2b1d4b9ea514fd41823e8198.png",
+      "jump": {
+        "desc": "奶香夏威夷果 120g*1",
+        "jumptoType": "商品"
+      },
+      "price": "￥15.9",
+      "title": "奶香夏威夷果 120g*1"
+    }, {
+      "contentType": 0,
+      "id": "2",
+      "image": "http://wx2.img.lppz.com///e1205ce452c949e38d392ab3115288ff.png",
+      "jump": {
+        "desc": "手剥松子 120g",
+        "jumptoType": "商品"
+      },
+      "price": "￥49.9",
+      "title": "手剥松子 120g"
+    }, {
+      "contentType": 0,
+      "id": "3",
+      "image": "http://wx2.img.lppz.com///169d364015284bf6babbc98ba9de39f0.png",
+      "jump": {
+        "desc": "东北红松 98g",
+        "jumptoType": "商品"
+      },
+      "price": "￥13.9",
+      "title": "东北红松 98g"
+    }, {
+      "contentType": 0,
+      "id": "4",
+      "image": "http://wx2.img.lppz.com///3833c1ae38ce44bf97579e1def8a37e1.png",
+      "jump": {
+        "desc": "炭烧腰果 180g 营养坚果",
+        "jumptoType": "商品"
+      },
+      "price": "￥25.9",
+      "title": "炭烧腰果 180g 营养坚果"
+    }, {
+      "contentType": 0,
+      "id": "5",
+      "image": "http://wx2.img.lppz.com///d016364b077e4259897f40d0c7910ec5.png",
+      "jump": {
+        "desc": "瓜子仁 110g*2 （蟹黄味）",
+        "jumptoType": "商品"
+      },
+      "price": "￥12.9",
+      "title": "瓜子仁 110g*2 （蟹黄味）"
+    }, {
+      "contentType": 0,
+      "id": "6",
+      "image": "http://wx2.img.lppz.com///9bced8c8270b4823a9150eff134a38ad.png",
+      "jump": {
+        "desc": "大米锅巴（麻辣味）90g*3",
+        "jumptoType": "商品"
+      },
+      "price": "￥15.9",
+      "title": "大米锅巴（麻辣味）90g*3"
+    }, {
+      "contentType": 0,
+      "id": "7",
+      "image": "http://wx2.img.lppz.com///d3a3704742d24ed89ee2549b9f4ec116.png",
+      "jump": {
+        "desc": "香脆红薯片70g*2",
+        "jumptoType": "商品"
+      },
+      "price": "￥15.9",
+      "title": "香脆红薯片70g*2"
+    }, {
+      "contentType": 0,
+      "id": "8",
+      "image": "http://wx2.img.lppz.com///fd8e6f514b4d48d1ad244b0d0fcfa0ab.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 800,
+    "style": 0,
+    "type": 15,
+    "width": 800
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///b1fb058200a84b13ad567098bd06cfe1.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 350,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///083f3030b4704e34b7e54d2689e1b5a8.png",
+      "jump": {
+        "desc": "香酥小黄鱼 118g",
+        "jumptoType": "商品"
+      },
+      "price": "￥13.9",
+      "title": "香酥小黄鱼 118g"
+    }, {
+      "contentType": 0,
+      "id": "1",
+      "image": "http://wx2.img.lppz.com///b15b4b5a07824d6598d14783e9b9d33b.jpg",
+      "jump": {
+        "desc": "卤藕 168g*1（香辣味）",
+        "jumptoType": "商品"
+      },
+      "price": "￥13.9",
+      "title": "卤藕 168g*1（香辣味）"
+    }, {
+      "contentType": 0,
+      "id": "2",
+      "image": "http://wx2.img.lppz.com///bbf67315a12348dbb264c8779b5e87c1.png",
+      "jump": {
+        "desc": "一颗臻蛋鸡蛋干 158g*1（酱香味）",
+        "jumptoType": "商品"
+      },
+      "price": "￥10.9",
+      "title": "一颗臻蛋鸡蛋干 158g*1（酱香味）"
+    }, {
+      "contentType": 0,
+      "id": "3",
+      "image": "http://wx2.img.lppz.com///d01dac313f6d4430be656c1965526e73.png",
+      "jump": {
+        "desc": "香卤铁蛋 128g*1（香辣味）",
+        "jumptoType": "商品"
+      },
+      "price": "￥9.8",
+      "title": "香卤铁蛋 128g*1（香辣味）"
+    }, {
+      "contentType": 0,
+      "id": "4",
+      "image": "http://wx2.img.lppz.com///7c518907bba0485592b6323907b41945.png",
+      "jump": {
+        "desc": "香辣大礼包 666g*1盒",
+        "jumptoType": "商品"
+      },
+      "price": "￥54.9",
+      "title": "香辣大礼包 666g*1盒"
+    }, {
+      "contentType": 0,
+      "id": "5",
+      "image": "http://wx2.img.lppz.com///52c06fcc4fde4a5a8d96e87e259f3c38.jpg",
+      "jump": {
+        "desc": "臭豆腐 120g*2（蒜蓉味）",
+        "jumptoType": "商品"
+      },
+      "price": "￥19.9",
+      "title": "臭豆腐 120g*2（蒜蓉味）"
+    }, {
+      "contentType": 0,
+      "id": "6",
+      "image": "http://wx2.img.lppz.com///33751f25d31f4b1a890151440db6e0d3.png",
+      "jump": {
+        "desc": "鱼豆腐 170g*2（烧烤味）",
+        "jumptoType": "商品"
+      },
+      "price": "￥21.9",
+      "title": "鱼豆腐 170g*2（烧烤味）"
+    }, {
+      "contentType": 0,
+      "id": "7",
+      "image": "http://wx2.img.lppz.com///8eb27a2fe5e4473893eccc4119f04452.png",
+      "jump": {
+        "desc": "高山小土豆 205g*1（烧烤味）",
+        "jumptoType": "商品"
+      },
+      "price": "￥13.9",
+      "title": "高山小土豆 205g*1（烧烤味）"
+    }, {
+      "contentType": 0,
+      "id": "8",
+      "image": "http://wx2.img.lppz.com///c92a2a3c7c5241b5b890ee35c5259c42.png",
+      "jump": {
+        "desc": "棒棒卷 100g*2（火辣味）豆制素食 鲜香咸辣辣条",
+        "jumptoType": "商品"
+      },
+      "price": "￥15",
+      "title": "棒棒卷 100g*2（火辣味）豆制素食 鲜香咸辣辣条"
+    }, {
+      "contentType": 0,
+      "id": "9",
+      "image": "http://wx2.img.lppz.com///c34e5953c896431ab9e316feaa3940a7.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 0,
+    "style": 0,
+    "type": 15,
+    "width": 0
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///d16454f06d1643399cc0153751a40908.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 350,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///986a0614955e4adeb3706a5239170d91.png",
+      "jump": {
+        "desc": "Philippine牌香蕉片 65g*2",
+        "jumptoType": "商品"
+      },
+      "price": "￥9",
+      "title": "Philippine牌香蕉片 65g*2"
+    }, {
+      "contentType": 0,
+      "id": "1",
+      "image": "http://wx2.img.lppz.com///3ca67cc47e5b4f7496c91db5544b5d51.png",
+      "jump": {
+        "desc": "张君雅捏碎面 40g*2",
+        "jumptoType": "商品"
+      },
+      "price": "￥7.9",
+      "title": "张君雅捏碎面 40g*2"
+    }, {
+      "contentType": 0,
+      "id": "2",
+      "image": "http://wx2.img.lppz.com///708cb9436a2d4011b7f935117f9aa501.png",
+      "jump": {
+        "desc": "汤姆农场扁桃仁 蜂蜜黄油味 35g",
+        "jumptoType": "商品"
+      },
+      "price": "￥9.9",
+      "title": "汤姆农场扁桃仁 蜂蜜黄油味 35g"
+    }, {
+      "contentType": 0,
+      "id": "3",
+      "image": "http://wx2.img.lppz.com///037917f0354645bc9ed25d5de3ca7ba0.png",
+      "jump": {
+        "desc": "77乳酥饼干 136g ",
+        "jumptoType": "商品"
+      },
+      "price": "￥25.9",
+      "title": "77乳酥饼干 136g "
+    }, {
+      "contentType": 0,
+      "id": "4",
+      "image": "http://wx2.img.lppz.com///8d65f49b66734f28a91cfb2c5fa8f40e.png",
+      "jump": {
+        "desc": "小老板烤海苔卷盒装 原味 32.4g",
+        "jumptoType": "商品"
+      },
+      "price": "￥19.9",
+      "title": "小老板烤海苔卷盒装 原味 32.4g"
+    }, {
+      "contentType": 0,
+      "id": "5",
+      "image": "http://wx2.img.lppz.com///0d6f7d01835b4d3cb71a0ffa03fd92aa.png",
+      "jump": {
+        "desc": "三养超辣鸡肉味拌面五连包",
+        "jumptoType": "商品"
+      },
+      "price": "￥33.9",
+      "title": "三养超辣鸡肉味拌面五连包"
+    }, {
+      "contentType": 0,
+      "id": "6",
+      "image": "http://wx2.img.lppz.com///26e109feb87544f5a00132bad82135b9.png",
+      "jump": {
+        "desc": "ZEK芝士鳕鱼肠 105g",
+        "jumptoType": "商品"
+      },
+      "price": "￥16.9",
+      "tebName": "推荐",
+      "title": "ZEK芝士鳕鱼肠 105g"
+    }, {
+      "contentType": 0,
+      "id": "7",
+      "image": "http://wx2.img.lppz.com///c5bd8cc719fc40d0a8612095ebf09b30.png",
+      "jump": {
+        "desc": "南益柠檬口味威化饼干 200g",
+        "jumptoType": "商品"
+      },
+      "price": "￥15.9",
+      "title": "南益柠檬口味威化饼干 200g"
+    }, {
+      "contentType": 0,
+      "id": "8",
+      "image": "http://wx2.img.lppz.com///c34e5953c896431ab9e316feaa3940a7.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 0,
+    "id": null,
+    "style": 0,
+    "type": 15,
+    "width": 0
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///227543f7f8144dd6bfe9758c71257ca8.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "外链"
+      }
+    }],
+    "height": 350,
+    "id": null,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///21e1688237a54b4ba5d1c7fe2f3c9afb.png",
+      "jump": {
+        "desc": "【良品甄选】精选赤峰小绿豆470g  夏季消暑必备",
+        "jumptoType": "商品"
+      },
+      "price": "￥9.9",
+      "title": "【良品甄选】精选赤峰小绿豆470g  夏季消暑必备"
+    }, {
+      "contentType": 0,
+      "id": "1",
+      "image": "http://wx2.img.lppz.com///c3e11dc9bbd3431eb023a658c519a653.jpg?x-oss-process=image/resize,w_200/quality,Q_80",
+      "jump": {
+        "desc": "苏州白芡实320g",
+        "jumptoType": "商品"
+      },
+      "price": "￥108",
+      "title": "苏州白芡实320g"
+    }, {
+      "contentType": 0,
+      "id": "2",
+      "image": "http://wx2.img.lppz.com///c40075adff1b4d1e913805151c3410d2.jpg?x-oss-process=image/resize,w_200/quality,Q_80",
+      "jump": {
+        "desc": "荆州洪湖莲子 280g/盒",
+        "jumptoType": "商品"
+      },
+      "price": "￥39.9",
+      "title": "荆州洪湖莲子 280g/盒"
+    }, {
+      "contentType": 0,
+      "id": "3",
+      "image": "http://wx2.img.lppz.com///2600183695a64930a47534e0bcbaf4f9.jpg?x-oss-process=image/resize,w_200/quality,Q_80",
+      "jump": {
+        "desc": "长白山黑木耳 120g/盒",
+        "jumptoType": "商品"
+      },
+      "price": "￥45.9",
+      "title": "长白山黑木耳 120g/盒"
+    }, {
+      "contentType": 0,
+      "id": "4",
+      "image": "http://wx2.img.lppz.com///1d71c9500efd4b61864ce0b48d2cdbd4.jpg?x-oss-process=image/resize,w_200/quality,Q_80",
+      "jump": {
+        "desc": "黑米 470g",
+        "jumptoType": "商品"
+      },
+      "price": "￥15.8",
+      "title": "黑米 470g"
+    }, {
+      "contentType": 0,
+      "id": "5",
+      "image": "http://wx2.img.lppz.com///a4c0d16afc2a4426a9a3bc092b6cbec6.png",
+      "jump": {
+        "desc": "八宝粥米 450g",
+        "jumptoType": "商品"
+      },
+      "price": "￥12.8",
+      "title": "八宝粥米 450g"
+    }, {
+      "contentType": 0,
+      "id": "6",
+      "image": "http://wx2.img.lppz.com///c3433c9a5b0a4f118ebfb36d8d0e8f6e.jpg?x-oss-process=image/resize,w_200/quality,Q_80",
+      "jump": {
+        "desc": "香菇（干制食用菌）100g",
+        "jumptoType": "商品"
+      },
+      "title": "香菇（干制食用菌）100g"
+    }, {
+      "contentType": 0,
+      "id": "7",
+      "image": "http://wx2.img.lppz.com///dc1938e0f8a94eb29cb4016e42fdab42.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 0,
+    "style": 0,
+    "type": 15,
+    "width": 0
+  }],
+  "msg": null,
+  "state": 1
+}

@@ -1,0 +1,9 @@
+export const COLUMN1                = 0;
+export const COLUMN2                = 1;
+export const COLUMN3                = 2;
+export const COLUMN4                = 3;
+export const COLUMM3_2_LEFT         = 4;
+export const COLUMM3_2_RIGHT        = 5;
+export const COLUMN3_ROW            = 6;
+export const COLUMN3_ROUND_ROW      = 7;
+export const COLUMN1_ROW            = 8;

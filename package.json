@@ -1,0 +1,28 @@
+{
+  "name": "myreactnativeapp",
+  "version": "1.0.0",
+  "description": "integrate RN with existing app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "author": "milter",
+  "license": "ISC",
+  "dependencies": {
+    "@remobile/react-native-marquee": "^1.0.1",
+    "@remobile/react-native-marquee-label": "^1.0.4",
+    "querystring": "^0.2.0",
+    "react": "16.0.0-alpha.6",
+    "react-native": "0.44.3",
+    "react-native-marquee-label": "^1.0.0",
+    "react-native-scrollable-tab-view": "^0.8.0",
+    "react-native-swiper": "^1.5.13",
+    "react-navigation": "^1.5.8",
+    "react-redux": "^5.0.6",
+    "react-timer-mixin": "^0.13.3",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0",
+    "reselect": "^3.0.1"
+  }
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="70dp"
+
+    android:background="#f5f5f5"
+    android:gravity="bottom">
+    <!--android:background="#eee"-->
+    <RelativeLayout
+        android:id="@+id/xlistview_header_content"
+        android:layout_width="match_parent"
+        android:layout_height="70dp">
+
+        <ImageView
+            android:id="@+id/pull_anime"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_centerInParent="true"
+            android:src="@drawable/pull_animation_new"/>
+
+        <TextView
+            android:id="@+id/tv_state"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/pull_anime"
+            android:layout_centerHorizontal="true"
+            android:translationY="-6dp"
+            android:textColor="#353535"
+            android:visibility="gone"
+            android:text="下拉刷新"
+            android:textSize="12sp"/>
+    </RelativeLayout>
+</LinearLayout>

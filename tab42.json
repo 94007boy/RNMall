@@ -1,0 +1,1851 @@
+{
+  "errorCode": null,
+  "floorList": [{
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///6e2d18ae0e1848fcb01d88c06683252a.png",
+    }],
+    "height": 300,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///55605e1078f440a283b6afc0f9496876.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面",
+      }
+    }, {
+      "contentType": 0,
+      "id": "1",
+      "image": "http://wx2.img.lppz.com///6789783a926b4f928f077c5f36568cab.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }, {
+      "contentType": 0,
+      "id": "2",
+      "image": "http://wx2.img.lppz.com///02d230a546aa41c08a49d06e3d0a73ce.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///957e5356f3ae450cb245c94df921bf5d.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 172,
+    "style": 3,
+    "type": 10,
+    "width": 752
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///66d0ac38d7ff4b26a6e5654d498c322a.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///b4672a95019d4bc3b6d6ae147d56dfa5.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///cd66a43cfc554a42beab28d22b6997b8.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///8634d96c8f2b40a5b6da59878abf2d8e.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 152,
+    "style": 3,
+    "type": 10,
+    "width": 752
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///39378bdb98f94c55b8c69b44e99e6b14.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "外链"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///869f1176279e42148badf7e1efe2f206.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "外链"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///40988c5f729e4492aabb0344d1988870.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "外链"
+      }
+    }],
+    "height": 311,
+    "style": 2,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///557586e61b474013b924ee77ad1f2e71.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///52cf37522ca345c488ee65d1646f9d74.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///7d7306d50e81425483160be3b13be99e.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }],
+    "height": 402,
+    "style": 2,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///463797d24c0e4587ab10ab4a506c1e9b.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 142,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///bc4c44c9f0ee4e8995fd967643b96af0.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "外链"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///c4f04ec7c76f4f83b2ec3233293e849d.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "外链"
+      }
+    }],
+    "height": 212,
+    "style": 1,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///b03b5464194e4b568641abdb4fbac19b.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      },
+      "price": "29.9",
+      "subtitle": "29.9",
+      "tebName": "商城"
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///e1b09fab705147248c590fe023223014.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 212,
+    "style": 1,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///65703a593b1744559fdb8addb7bdca44.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///f069b3b0de6d462d965f40b826415474.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "外链"
+      }
+    }],
+    "height": 211,
+    "style": 1,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///22276036ff8340c5a3386ee00f1fa705.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "外链"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///e7b54a5e0a774dd5822baade42cc1a3f.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 218,
+    "style": 1,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///855bd148847b4bfd98c9bf1b92e5722d.png",
+    }],
+    "height": 146,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///a9e8e81e3bf14acc8005e1195169c6ba.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }],
+    "height": 212,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///a5ff2e8f35c8442baffe8db1f1b4e366.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      },
+      "price": "3.9",
+      "subtitle": "3.9"
+    }],
+    "height": 209,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///7e0f28b2ce614c6dae7e103fdbc5c275.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      },
+      "price": "7.9",
+      "productType": 0,
+      "subtitle": "7.9"
+    }],
+    "height": 201,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///c32237edccc64b9da2031173cc0265c7.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      },
+      "price": "9.9"
+    }],
+    "height": 200,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///987d90d59f5f4505a145ce05a851cbf3.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }],
+    "height": 199,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///dd7d6cef4d0747a2a4d20f9d19481b1d.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }],
+    "height": 206,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///6f35addc6fe1459590ae05bde34bd654.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///dfca67034c7049ee9b7e9aa8ff36dc5f.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///23f2c18e102b4ed6a0d7fa12edff40fc.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }],
+    "height": 316,
+    "style": 2,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///7e373e73cdc54654b679c3db5886c05e.png",
+    }],
+    "height": 145,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///be078f5f3d004449b5d268c7d035475a.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }],
+    "height": 212,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///8cfacd80643340fb8d8d71a2b11acda1.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }],
+    "height": 205,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///8e3be34ff4fa4dca828a7f4776974f33.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///b3e068601eef46f595e327ee8d62cc3b.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///08293a68c1274c7b8055011af8c68597.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }],
+    "height": 305,
+    "style": 2,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///2a7f46f8130444649f76c1fbdede818f.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///5af59f26d0ea440e8b8143add1dc0134.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///989f660f1cfa4df0aa3f2a26c97a7df4.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }],
+    "height": 300,
+    "style": 2,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///dc48c5d17301499b9f62d3cc6da724cf.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///b6043cb9fb414d77a8038896cca50048.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///da85f024732e499c9dde91f9d5e7ed50.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }],
+    "height": 311,
+    "style": 2,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///b7a622eb0aba4bc58ff1ea9ae37e01e5.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///90c764802e09437db6afb035d2c26833.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///c4e13dcc0f4341cc8559d618ebbd65b7.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }],
+    "height": 311,
+    "style": 2,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///c56a2909577a4164b9e23f32e77711b2.png",
+    }],
+    "height": 146,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///75bf4e67809d45c08b68248ca982a80c.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }],
+    "height": 211,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///e47558cded38484896585bd051c4a2c4.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }],
+    "height": 204,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///de205390f40241eba4643f75156c3966.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///a9529b6b2ece469280b1b729360be1c8.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      },
+      "price": "14.9"
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///32aaa41f50f2428abbd1cdc24b88f2cb.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      },
+      "price": "29.9",
+      "subtitle": "29.9",
+      "tebName": "商城"
+    }],
+    "height": 306,
+    "style": 2,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///40dc6d5de3db49b888452cb914b21c5d.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///bcc53e0d44c14ad294c29799e3cd100e.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "id": "2",
+      "image": "http://wx2.img.lppz.com///f8592624ba8741c2b7863f77448d7bdb.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }],
+    "height": 299,
+    "style": 2,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///d37396a7dac3424bbeffd62dc5cddbaf.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///c9d6891b361242fb8551709f3b081d87.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///57b7cf9165f34015922799fe22ca744a.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }],
+    "height": 299,
+    "style": 2,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///1527113eb69249508ed661167a65c4d6.png"
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///f74b76e37d1f4ebfa47d38b967260483.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///47c7a5dcf7574d22878d7f0785241b21.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }],
+    "height": 301,
+    "style": 2,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///fe754b72e0074869a33a0dc4e848646b.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///d6423b271f284c208d6cc6e30e8a1667.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品",
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///6fe58ad39f214105a869f13f89ca2608.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }],
+    "height": 301,
+    "style": 2,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///8677c79f9c314c3d92d53c03be846d5c.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///2ded77da30e04321b7679d95cb90c2b9.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///3d9cb723961b4256a98d4e8686c71f2d.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品",
+      }
+    }],
+    "height": 313,
+    "style": 2,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///68a16b9ea1f94bfaa30334b73e4a3311.png"
+    }],
+    "height": 146,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///0f2ead33aa0b4c25adcb3d16d8188caf.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      },
+      "price": "9.9",
+      "subtitle": "9.9"
+    }],
+    "height": 208,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///fe4ce12f3d7849789a33bab3b160c4d2.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      },
+      "price": "9.9",
+      "subtitle": "9.9"
+    }],
+    "height": 207,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///04d908d234de499bb8eafd4145c0bf2f.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///18819704dc684625a3fec6ae82a64f08.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///038245f66fbe48be8ed18ef0612a5675.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }],
+    "height": 303,
+    "style": 2,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///a96551501c0c4950b335bc0e2fbcd92f.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///7f110d834a9744d9a117736505275eb3.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///8e208974186a4a22ae3c3196e25567e3.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }],
+    "height": 299,
+    "style": 2,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///d2e904500bd1426481f92976bd4ecda1.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///e0203de4020348b1a40a62570981cb13.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///66aa662420864e4abf2c11a2a60255e0.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }],
+    "height": 301,
+    "style": 2,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///73bad13d73e648c98a9871a433cfc9a5.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///596603d7060c49dd989ace85f6f8a528.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///401ab94f88dd471f8cd5d02dd475ca05.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }],
+    "height": 299,
+    "style": 2,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///5584d11f7e3b4cac98592a3e78a72e36.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///b3d0050053e24d07aa50217618de6fa4.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///37b7858cd5ff4665a9025e049b0eb39f.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }],
+    "height": 314,
+    "style": 2,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///e5a86a944d384716ae66adf1a9080613.png"
+    }],
+    "height": 147,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///8b97e0af898f4ed9ae4efe989596748e.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }],
+    "height": 214,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///1e0dfbaabb594dc483faa1a0288bc121.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///c362650896884327ba9087085ea47772.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///1176770f71fd4f26ab96fb5b635298c1.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }],
+    "height": 305,
+    "style": 2,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///572ed32d20f94a4b83442bd521bdaccd.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///95ab9f18695e4aab88642058264da5e7.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///020631e826124ce395bef0b566899e07.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }],
+    "height": 312,
+    "style": 2,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///0abb52934ba44a7b9993704ac20f028a.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 146,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///21d4e9b729da405b904587a91cad3bf4.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///b0ddf7c2f7364591a6b97da961bb0d0f.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///5c3300921d774c76afa3445e902a8210.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }],
+    "height": 311,
+    "style": 2,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///02595fe0db2447778a3d7b056ba91ed2.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///8eb7d20caa894a71855397ead3cef275.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///a4bdde1ffccb443193f48ac57d82e347.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "商品"
+      }
+    }],
+    "height": 329,
+    "style": 2,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///b3f74105d8a64f658a80644c8862436f.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 223,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///8d3d97bc7e0846488430f93dd673ad21.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///685dc85640324ebba0b1bbb06705a5a4.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 224,
+    "style": 1,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///f9f606957173473b882882971ca43ca9.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///608877399d974ae3a9e59160d1c58e16.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///d2417ba3a0804171bf27d6d198040858.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 224,
+    "style": 2,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///652408fcd57249798fdbfc65042559e7.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///fbae1b24bdda4e47b48d115266f8b772.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///27ac1ad23f424815890bf6118c07d48c.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 231,
+    "style": 2,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "title": "水果生鲜"
+    }, {
+      "contentType": 0,
+      "title": "周三上新"
+    }, {
+      "contentType": 0,
+      "title": "饼干糕点"
+    }, {
+      "contentType": 0,
+      "title": "果脯果干"
+    }, {
+      "contentType": 0,
+      "title": "海味素食"
+    }, {
+      "contentType": 0,
+      "title": "美味肉脯"
+    }, {
+      "contentType": 0,
+      "title": "坚果炒货"
+    }, {
+      "contentType": 0,
+      "title": "杂粮干货"
+    }, {
+      "title": "进口专区",
+      "titleStyle": 0,
+      "waterMark": null
+    }],
+    "height": 0,
+    "title": "导航栏",
+    "type": 22,
+    "width": 0
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///8e33673e3197473b8657484d405d6afa.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 350,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///5a8aaf5eb9064105a367c58a34460080.jpg?x-oss-process=image/resize,w_200/quality,Q_80",
+      "jump": {
+        "desc": "【良品甄选】金煌芒 5斤",
+        "jumptoType": "商品"
+      },
+      "price": "￥29.9",
+      "subtitle": "￥29.9",
+      "title": "【良品甄选】金煌芒 5斤"
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///3d67ccc0e1274300953dfdbd63891fb4.jpg?x-oss-process=image/resize,w_200/quality,Q_80",
+      "jump": {
+        "desc": " 【良品甄选】 红树林海鸭蛋  端午礼盒装 沿海放养  鲜香流油  烤制工艺  酥软美味",
+        "jumptoType": "商品"
+      },
+      "price": "￥78",
+      "title": " 【良品甄选】 红树林海鸭蛋  端午礼盒装 沿海放养  鲜香流油  烤制工艺  酥软美味"
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///a5dfa4f1a2094a8299009dd21ca03694.jpg?x-oss-process=image/resize,w_200/quality,Q_80",
+      "jump": {
+        "desc": "【良品甄选】海南红心木瓜 5斤装  红心肉细汁甜（单果500g以上）",
+        "jumptoType": "商品"
+      },
+      "price": "￥35.9",
+      "title": "【良品甄选】海南红心木瓜 5斤装  红心肉细汁甜（单果500g以上）"
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///fb2d4cea25dd4683a98155af9dacfcd4.jpg?x-oss-process=image/resize,w_200/quality,Q_80",
+      "jump": {
+        "desc": "【良品甄选】美早大樱桃 买2斤送1斤  实发3斤 ",
+        "jumptoType": "商品"
+      },
+      "price": "￥158",
+      "title": "【良品甄选】美早大樱桃 买2斤送1斤  实发3斤 "
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///df22e2485cdd42f6868a1955d66a6c0d.jpg?x-oss-process=image/resize,w_200/quality,Q_80",
+      "jump": {
+        "desc": "【良品甄选】甄选佳沛新西兰绿奇异果 12粒",
+        "jumptoType": "商品"
+      },
+      "title": "【良品甄选】甄选佳沛新西兰绿奇异果 12粒"
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///07883e8b65c243a79e7a24c37354d6c3.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 0,
+    "style": 0,
+    "type": 15,
+    "width": 0
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///96d193b09b84438c86eeb32c52d53c0f.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 350,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///9c5256eb91d84317b0bbb79d6d915e34.png",
+      "jump": {
+        "desc": "【6月20号新品】老醋蚕豆100g*2",
+        "jumptoType": "商品"
+      },
+      "price": "￥6.9",
+      "subtitle": "￥6.9",
+      "title": "【6月20号新品】老醋蚕豆100g*2"
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///e5e53698aa8945dca264ddea662854ce.png",
+      "jump": {
+        "desc": "【6月20号新品】怪味花生120g*2",
+        "jumptoType": "商品"
+      },
+      "price": "￥6.9",
+      "subtitle": "￥6.9",
+      "title": "【6月20号新品】怪味花生120g*2"
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///2d05ccad83794c1fbb9cf4b2d1b315ec.png",
+      "jump": {
+        "desc": "【6月20号新品】梅子吸吸果冻165g*2",
+        "jumptoType": "商品"
+      },
+      "price": "￥7.9",
+      "subtitle": "￥7.9",
+      "title": "【6月20号新品】梅子吸吸果冻165g*2"
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///9ce21a0b2dc24ca29ab52db82670e0d7.png",
+      "jump": {
+        "desc": "【6月20号新品】牛蛙（香辣味）90g",
+        "jumptoType": "商品"
+      },
+      "price": "￥14.9",
+      "subtitle": "￥14.9",
+      "title": "【6月20号新品】牛蛙（香辣味）90g"
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///b64f99d20bd94204baa0a9ddc075c1dc.png",
+      "jump": {
+        "desc": "【6月20号新品】迷你八爪鱼（香辣味）60g",
+        "jumptoType": "商品"
+      },
+      "price": "￥19.9",
+      "subtitle": "￥19.9",
+      "title": "【6月20号新品】迷你八爪鱼（香辣味）60g"
+    }, {
+      "contentType": 0,
+      "id": "5",
+      "image": "http://wx2.img.lppz.com///8ad28becc56a431fb10f42d9d2f63d3c.png",
+      "jump": {
+        "desc": "【6月20号新品】玉米虾仁（原味）55g",
+        "jumptoType": "商品"
+      },
+      "price": "￥19.9",
+      "subtitle": "￥19.9",
+      "title": "【6月20号新品】玉米虾仁（原味）55g"
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///d7759e1151924cbb97c30596b04738ca.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 0,
+    "style": 0,
+    "type": 15,
+    "width": 0
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///fcc79ae892ff4e3eaa65723951246fa0.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 350,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///dfe8900e615f46efa06c3eb1b16dd8cb.png",
+      "jump": {
+        "desc": "手造麻薯组合礼盒装 1050g",
+        "jumptoType": "商品"
+      },
+      "price": "￥36.9",
+      "title": "手造麻薯组合礼盒装 1050g"
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///fd56baee8c704845a3a99b6e8ba13206.png",
+      "jump": {
+        "desc": "椰丝球 原味 300g",
+        "jumptoType": "商品"
+      },
+      "price": "￥19.9",
+      "title": "椰丝球 原味 300g"
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///aa48c6e04db84546a17075b65047fdc3.png",
+      "jump": {
+        "desc": "蒸蛋糕 1000g",
+        "jumptoType": "商品"
+      },
+      "price": "￥39.9",
+      "title": "蒸蛋糕 1000g"
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///52d1eb79f5624bfb9a603d394cd2b5a0.png",
+      "jump": {
+        "desc": "Tipo牛奶味奶蛋酥脆面包干 135g  ",
+        "jumptoType": "商品"
+      },
+      "price": "￥14.9",
+      "title": "Tipo牛奶味奶蛋酥脆面包干 135g  "
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///d7759e1151924cbb97c30596b04738ca.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 800,
+    "style": 0,
+    "type": 15,
+    "width": 800
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///331396cacda34e439e2f411c4be555d7.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面"
+      }
+    }],
+    "height": 350,
+    "iddState": 0,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///240fd801396c4db38748b6fe3b84583a.jpg",
+      "jump": {
+        "desc": "蔓越莓干 100g*2",
+        "jumptoType": "商品"
+      },
+      "price": "￥18.9",
+      "title": "蔓越莓干 100g*2"
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///60bca92008c94c3e8254d02c5558a5c1.png",
+      "jump": {
+        "desc": "综合果蔬干100g*1",
+        "jumptoType": "商品"
+      },
+      "price": "￥12.9",
+      "title": "综合果蔬干100g*1"
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///919b39dbf10d4324b48883945e0e69de.png",
+      "jump": {
+        "desc": "什锦葡萄干 400g",
+        "jumptoType": "商品",
+      },
+      "price": "￥21.9",
+      "title": "什锦葡萄干 400g",
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///b409df551f6e49b6a88e641deee38120.png",
+      "jump": {
+        "desc": "贵妃杨梅王 108g",
+        "jumptoType": "商品",
+      },
+      "price": "￥15.9",
+      "title": "贵妃杨梅王 108g",
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///d7759e1151924cbb97c30596b04738ca.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面",
+      },
+    }],
+    "height": 0,
+    "style": 0,
+    "type": 15,
+    "width": 0
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///b1fb058200a84b13ad567098bd06cfe1.png",
+    }],
+    "height": 350,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "actiddFloors": null,
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///4ff71e0bf7684a059a696dfb8b058acb.png",
+      "jump": {
+        "desc": "高山小土豆 205g*1 烧烤味",
+        "jumptoType": "商品",
+      },
+      "price": "￥13.9",
+      "title": "高山小土豆 205g*1 烧烤味",
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///6c31ec132e2441b286f7708ded1f2cbd.png",
+      "jump": {
+        "desc": "一颗臻蛋鸡蛋干 158g*1（酱香味）",
+        "jumptoType": "商品",
+      },
+      "price": "￥10.9",
+      "title": "一颗臻蛋鸡蛋干 158g*1（酱香味）",
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///bf0e90c3a2c74ddea9b04f67bf9820d8.png",
+      "jump": {
+        "desc": "鱼豆腐 香辣味 170g*2袋",
+        "jumptoType": "商品",
+      },
+      "price": "￥21.9",
+      "title": "鱼豆腐 香辣味 170g*2袋",
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///93f071ecee834eb0a910cb0a18556a01.png",
+      "jump": {
+        "desc": "竹篓鱼仔 香辣味 105g*1 ",
+        "jumptoType": "商品",
+      },
+      "price": "￥11",
+      "title": "竹篓鱼仔 香辣味 105g*1 ",
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///f3e89359f570456b9e404ff49da666d6.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面",
+      }
+    }],
+    "height": 0,
+    "style": 0,
+    "type": 15,
+    "width": 0
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///9bfbc7f8ebba41b6a8129ffd00768498.png",
+    }],
+    "height": 350,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///7b277fe20cc841e7b90336dee2db4ef7.png",
+      "jump": {
+        "desc": "猪肉脯 200g 香辣味",
+        "jumptoType": "商品",
+      },
+      "price": "￥19.9",
+      "title": "猪肉脯 200g 香辣味",
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///5c77e0db8f774bacaa07ebd570a47cb0.png",
+      "jump": {
+        "desc": "山椒凤爪 260g*1",
+        "jumptoType": "商品",
+      },
+      "price": "￥19.9",
+      "title": "山椒凤爪 260g*1",
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///d898bee3a7334718982048c90eb6f0a9.png",
+      "jump": {
+        "desc": "去骨鸭掌 110g*1",
+        "jumptoType": "商品",
+      },
+      "price": "￥24.9",
+      "title": "去骨鸭掌 110g*1",
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///099a72b440dd42edbccde323a6410299.png",
+      "jump": {
+        "desc": "方便火锅 470g*1",
+        "jumptoType": "商品",
+      },
+      "price": "￥36.9",
+      "title": "方便火锅 470g*1",
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///f3e89359f570456b9e404ff49da666d6.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面",
+      },
+    }],
+    "height": 0,
+    "style": 0,
+    "type": 15,
+    "width": 0
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///004af0f5d89242729407e7b6e94810e5.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面",
+      },
+    }],
+    "height": 350,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///441675831d3d4e3cabb6f0891862011c.png",
+      "jump": {
+        "desc": "牛肉味兰花豆110g*2",
+        "jumptoType": "商品",
+      },
+      "price": "￥9.9",
+      "title": "牛肉味兰花豆110g*2",
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///7ec0ad8cc4924b8d8db62b8db39a3408.png",
+      "jump": {
+        "desc": "碧根果 奶香味 120g",
+        "jumptoType": "商品",
+      },
+      "price": "￥17.9",
+      "title": "碧根果 奶香味 120g",
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///30ec34c8d264493fbeb29704239c532d.png",
+      "jump": {
+        "desc": "瓜子仁 110g*2 川辣味",
+        "jumptoType": "商品",
+      },
+      "price": "￥12.9",
+      "title": "瓜子仁 110g*2 川辣味",
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///92e77b397bbb4c48ac93894bbd20ba14.png",
+      "jump": {
+        "desc": "东北红松 218g",
+        "jumptoType": "商品",
+      },
+      "price": "￥27.9",
+      "title": "东北红松 218g",
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///d2a5f4ef7ab04774939b19c03bcb8561.png",
+      "jump": {
+        "desc": "自然开心果 210g*1",
+        "jumptoType": "商品",
+      },
+      "price": "￥29.9",
+      "title": "自然开心果 210g*1",
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///d7759e1151924cbb97c30596b04738ca.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面",
+      },
+    }],
+    "height": 0,
+    "style": 0,
+    "type": 15,
+    "width": 0
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///227543f7f8144dd6bfe9758c71257ca8.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面",
+      },
+    }],
+    "height": 350,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///2a1057e4814e419a99d1a6a5326393e0.jpg?x-oss-process=image/resize,w_200/quality,Q_80",
+      "jump": {
+        "desc": "【良品甄选】精选赤峰小绿豆470g  夏季消暑必备",
+        "jumptoType": "商品",
+      },
+      "price": "￥9.9",
+      "subtitle": "￥9.9",
+      "title": "【良品甄选】精选赤峰小绿豆470g  夏季消暑必备",
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///c3b4b112b28f423b920256b9059f2869.jpg?x-oss-process=image/resize,w_200/quality,Q_80",
+      "jump": {
+        "desc": "【良品甄选】紫薯黑米粥料 450g 五谷杂粮 营养粥料",
+        "jumptoType": "商品",
+      },
+      "price": "￥15.8",
+      "title": "【良品甄选】紫薯黑米粥料 450g 五谷杂粮 营养粥料",
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///948f7d1a07b44239b131951b26cb4792.jpg?x-oss-process=image/resize,w_200/quality,Q_80",
+      "jump": {
+        "desc": "藜麦410g 五谷杂粮 软糯香甜 甄选",
+        "jumptoType": "商品",
+      },
+      "price": "￥36.8",
+      "produc": "商城",
+      "title": "藜麦410g 五谷杂粮 软糯香甜 甄选",
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///5c89fb17620241089a8946c1d0f6d883.jpg?x-oss-process=image/resize,w_200/quality,Q_80",
+      "jump": {
+        "desc": "【良品甄选】猴头菇（干制食用菌）70g",
+        "jumptoType": "商品",
+      },
+      "price": "￥17.9",
+      "title": "【良品甄选】猴头菇（干制食用菌）70g",
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///38042479e48a4032b5d201dd35d1c828.jpg?x-oss-process=image/resize,w_200/quality,Q_80",
+      "jump": {
+        "desc": "【满减】【良品甄选】北虫草（蛹虫草）60g 精选头茬 色泽金黄 菌香浓郁",
+        "jumptoType": "商品",
+      },
+      "price": "￥29.9",
+      "title": "【满减】【良品甄选】北虫草（蛹虫草）60g 精选头茬 色泽金黄 菌香浓郁",
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///07883e8b65c243a79e7a24c37354d6c3.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面",
+      },
+    }],
+    "height": 0,
+    "style": 0,
+    "type": 15,
+    "width": 0
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///d16454f06d1643399cc0153751a40908.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面",
+      },
+    }],
+    "height": 350,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///531561100b75490a86c4647c0ec16d81.png",
+      "jump": {
+        "desc": "77乳酥饼干 136g",
+        "jumptoType": "商品",
+      },
+      "price": "￥25.9",
+      "title": "77乳酥饼干 136g",
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///5f07ef1e97534d299be9a53051d09f8d.png",
+      "jump": {
+        "desc": "Philippine牌香蕉片 65g*2",
+        "jumptoType": "商品",
+      },
+      "price": "￥9",
+      "title": "Philippine牌香蕉片 65g*2",
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///0badd787788b465cbad3576699ed618d.png",
+      "jump": {
+        "desc": "张君雅捏碎面 40g*2",
+        "jumptoType": "商品",
+      },
+      "price": "￥7.9",
+      "title": "张君雅捏碎面 40g*2",
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///fa343e3ce1c744b8a9b4453318b4cbe1.png",
+      "jump": {
+        "desc": "汤姆农场扁桃仁  蜂蜜黄油味  35g",
+        "jumptoType": "商品",
+      },
+      "price": "￥9.9",
+      "title": "汤姆农场扁桃仁  蜂蜜黄油味  35g",
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///f3e89359f570456b9e404ff49da666d6.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面",
+      }
+    }],
+    "height": 0,
+    "style": 0,
+    "type": 15,
+    "width": 0
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///2499e4a9bc52430b810740053bb30da0.png",
+    }],
+    "height": 136,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///46f0a0ce39b54b7cbebc58f98d8ae6e0.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面",
+      },
+    }],
+    "height": 223,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///11d0b10764b147b595e36437243d31e4.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面",
+      },
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///b5c081a40a1d4d44a27389c7e5b7f334.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面",
+      },
+    }],
+    "height": 224,
+    "style": 1,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///5fea0775a4324553b4014f8973b4755b.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面",
+      },
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///e867a882a1c94984bd1e482222ccfe95.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面",
+      },
+      "price": null,
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///81aa5742fd48484eba6803603bd8180a.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面",
+      },
+    }],
+    "height": 224,
+    "style": 2,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///ef42d9baae974de395e9070996e6406e.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面",
+      },
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///f40ca0b3eb434a209f645fa6abe2030d.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面",
+      },
+    }, {
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///29d52292ea17446abca9687421440f59.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面",
+      },
+    }],
+    "height": 231,
+    "style": 2,
+    "type": 10,
+    "width": 750
+  }, {
+    "contents": [{
+      "contentType": 0,
+      "image": "http://wx2.img.lppz.com///7a276075621342c68e32bc4f99a1242d.png",
+      "jump": {
+        "desc": "",
+        "jumptoType": "微页面",
+      },
+    }],
+    "height": 82,
+    "style": 0,
+    "type": 10,
+    "width": 750
+  }],
+  "msg": null,
+  "state": 1,
+}

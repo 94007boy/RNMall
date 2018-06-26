@@ -1,0 +1,342 @@
+{
+  "errorCode": null,
+  "floorList": [{
+    
+    
+    "contents": [{
+      "contentType": 0,
+      "coordinate_x": 1,
+      "coordinate_y": 1,
+      
+      
+      
+      
+      
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///25579951c2bf4f4193918b827c5359fe.jpg",
+      
+      "jump": {
+        "desc": "",
+        "jumptoID": "",
+        
+        
+        
+        "url": ""
+      },
+      
+      "price": null,
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    }],
+    
+    "height": 1049,
+    
+    
+    
+    "modelId": "1030_101",
+    
+    
+    
+    
+    "style": 0,
+    
+    
+    "type": 10,
+    "width": 750
+  }, {
+    
+    
+    "contents": [{
+      "contentType": 0,
+      "coordinate_x": 1,
+      "coordinate_y": 2,
+      
+      
+      
+      
+      
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///be50fefea40d475887d979085f2786be.jpg",
+      
+      "jump": {
+        "desc": "",
+        "jumptoID": "",
+        
+        
+        
+        "url": ""
+      },
+      
+      "price": null,
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    }],
+    
+    "height": 582,
+    
+    
+    
+    "modelId": "1030_102",
+    
+    
+    
+    
+    "style": 0,
+    
+    
+    "type": 10,
+    "width": 750
+  }, {
+    
+    
+    "contents": [{
+      "contentType": 0,
+      "coordinate_x": 1,
+      "coordinate_y": 3,
+      
+      
+      
+      
+      
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///273eb20a18384fcfb7d99691e95e4fc3.jpg",
+      
+      "jump": {
+        "desc": "",
+        "jumptoID": "",
+        
+        
+        
+        "url": ""
+      },
+      
+      "price": null,
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    }],
+    
+    "height": 813,
+    
+    
+    
+    "modelId": "1030_103",
+    
+    
+    
+    
+    "style": 0,
+    
+    
+    "type": 10,
+    "width": 750
+  }, {
+    
+    
+    "contents": [{
+      "contentType": 0,
+      "coordinate_x": 1,
+      "coordinate_y": 4,
+      
+      
+      
+      
+      
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///3652499ca82f4f75b3eeefa5503992e0.jpg",
+      
+      "jump": {
+        "desc": "",
+        "jumptoID": "",
+        
+        
+        
+        "url": ""
+      },
+      
+      "price": null,
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    }],
+    
+    "height": 680,
+    
+    
+    
+    "modelId": "1030_104",
+    
+    
+    
+    
+    "style": 0,
+    
+    
+    "type": 10,
+    "width": 750
+  }, {
+    
+    
+    "contents": [{
+      "contentType": 0,
+      "coordinate_x": 1,
+      "coordinate_y": 5,
+      
+      
+      
+      
+      
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///3684aaed76a14111ba1e23a82c2c2248.jpg",
+      
+      "jump": {
+        "desc": "",
+        "jumptoID": "",
+        
+        
+        
+        "url": ""
+      },
+      
+      "price": null,
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    }],
+    
+    "height": 680,
+    
+    
+    
+    "modelId": "1030_105",
+    
+    
+    
+    
+    "style": 0,
+    
+    
+    "type": 10,
+    "width": 750
+  }, {
+    
+    
+    "contents": [{
+      "contentType": 0,
+      "coordinate_x": 1,
+      "coordinate_y": 6,
+      
+      
+      
+      
+      
+      "id": "0",
+      "image": "http://wx2.img.lppz.com///b631ece2d77941c4aedcc601985f3c9e.jpg",
+      
+      "jump": {
+        "desc": "",
+        "jumptoID": "",
+        "jumptoType": "外链",
+        
+        
+        "url": "https://snswm.lppz.com/?hidetab=true"
+      },
+      
+      "price": null,
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    }],
+    
+    "height": 876,
+    
+    
+    
+    "modelId": "1030_106",
+    
+    
+    
+    
+    "style": 0,
+    
+    
+    "type": 10,
+    "width": 750
+  }],
+  "msg": null,
+  "state": 1
+}
