@@ -24,7 +24,7 @@ import shop.shengyin.rnativeproject.R;
 
 public class SplashFragment extends Fragment {
 
-    private int count = 10;
+    private int count = 5;
     private TextView btn;
     private CompositeSubscription subscription = new CompositeSubscription();
 
@@ -41,7 +41,7 @@ public class SplashFragment extends Fragment {
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                goHome();
+                //goHome();
             }
         });
         return rootView;
@@ -74,7 +74,7 @@ public class SplashFragment extends Fragment {
 
                     @Override
                     public void onNext(Long aLong) {
-                        btn.setText("跳过 "+aLong);
+                        btn.setText("等待 "+aLong);
                     }
                 })
         );
